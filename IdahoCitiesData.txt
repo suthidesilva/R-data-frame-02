@@ -1,0 +1,219 @@
+name	pop2021	pop2010
+Boise	229993	209576
+Meridian	129555	77428
+Nampa	105405	81998
+Idaho Falls	64618	57995
+Caldwell	624870	46535
+Pocatello	57947	54335
+Coeur dAlene	54822	44292
+Twin Falls	51165	44517
+Post Falls	39452	27949
+Lewiston	32978	31919
+Eagle	32868	20009
+Rexburg	30868	25542
+Moscow	26092	23842
+Kuna	25131	15628
+Ammon	18523	14039
+Chubbuck	16268	14022
+Hayden	16022	13319
+Mountain Home	14684	14272
+Jerome	12320	10922
+Blackfoot	12252	12014
+Garden City	12167	10983
+Star	11822	5859
+Burley	10784	10332
+Rathdrum	10072	6861
+Sandpoint	9391	7471
+Middleton	9336	5532
+Hailey	8931	7930
+Payette	8063	7501
+Emmett	7408	6539
+Rupert	6201	5597
+Preston	5689	5254
+Fruitland	5546	4767
+Weiser	5428	5485
+Buhl	4625	4186
+Shelley	4586	4430
+Rigby	4438	3949
+American Falls	4291	4475
+Kimberly	4246	3311
+McCall	3871	2957
+Lincoln	3817	3647
+Heyburn	3553	3093
+St. Anthony	3533	3567
+Gooding	3448	3600
+Grangeville	3319	3158
+Salmon	3241	3149
+Hidden Springs	3164	2280
+Filer	3077	2526
+Orofino	3077	3202
+Soda Springs	3077	3055
+Mountain Home AFB	3009	3238
+Victor	2979	1919
+Fort Hall	2971	3201
+Ketchum	2879	2704
+Homedale	2822	2631
+Wendell	2750	2782
+Bonners Ferry	2687	2511
+Spirit Lake	2583	1941
+Montpelier	2580	2588
+Bellevue	2486	2325
+St. Maries	2472	2500
+Dalton Gardens	2424	2339
+Iona	2382	1833
+Malad City	2187	2100
+Parma	2167	1976
+Kellogg	2158	2140
+Aberdeen	2041	1998
+Priest River	1969	1739
+Wilder	1885	1534
+Driggs	1867	1627
+Sugar City	1654	1521
+Pinehurst	1648	1614
+New Plymouth	1644	1506
+Osburn	1572	1549
+Sun Valley	1496	1404
+Paul	1479	1182
+Shoshone	1476	1485
+Marsing	1348	1292
+Glenns Ferry	1313	1325
+Robie Creek	1312	1162
+Hansen	1278	1146
+Moreland	1232	1278
+Kamiah	1220	1293
+Ponderay	1207	1045
+Tyhee	1192	0
+Ucon	1175	1110
+Lapwai	1151	1129
+Riverside	1149	838
+Arbon Valley	1124	599
+Challis	1115	1097
+Kootenai	1096	744
+Cascade	1071	931
+Plummer	1037	1048
+Dover	1032	544
+Ashton	1026	1124
+Cottonwood	960	903
+Genesee	959	948
+Grace	953	916
+Hagerman	915	893
+Council	914	835
+Inkom	910	861
+Troy	897	857
+Arco	890	992
+Greenleaf	888	838
+Franklin	851	662
+Horseshoe Bend	841	719
+McCammon	833	810
+Oakley	828	770
+Hazelton	827	807
+Athol	824	694
+Potlatch	812	803
+Menan	800	751
+Wallace	788	784
+Moyie Springs	781	722
+Hauser	743	676
+Teton	738	734
+Mullan	700	689
+Ririe	683	659
+Kooskia	678	651
+Roberts	667	589
+Notus	652	593
+Carey	649	611
+Downey	639	626
+Hayden Lake	635	588
+Smelterville	631	618
+Groveland	624	877
+Juliaetta	605	577
+Clark Fork	599	530
+Melba	588	506
+Pierce	586	505
+Dubois	576	676
+New Meadows	567	490
+Lewisville	536	454
+Paris	529	511
+Firth	521	480
+Dayton	516	467
+Winchester	515	339
+Deary	512	504
+Mackay	511	511
+Georgetown	500	491
+Grand View	499	447
+Richfield	492	476
+Garden Valley	489	394
+Weston	484	435
+Craigmont	483	504
+Idaho City	471	445
+Nezperce	444	468
+Lava Hot Springs	442	415
+Weippe	438	461
+Mud Lake	435	358
+Eden	429	404
+Riggins	428	406
+Basalt	418	395
+Bancroft	414	370
+Culdesac	387	380
+Fairfield	375	416
+Declo	373	351
+Arimo	366	350
+Dietrich	333	331
+Rockford Bay	328	184
+Hollister	327	273
+Cambridge	322	327
+Clifton	312	258
+Bliss	303	316
+Kendrick	303	302
+Newdale	302	318
+Tetonia	290	263
+Albion	282	263
+Parker	281	304
+Rockland	279	294
+Swan Valley	275	199
+Island Park	262	277
+Worley	262	257
+Castleford	258	226
+Bovill	256	253
+Irwin	249	232
+Yellow Pine	246	0
+Sweetwater	239	143
+Stites	238	226
+East Hope	235	208
+Rockford	229	276
+Donnelly	226	143
+Harrison	214	208
+Malta	211	194
+Bloomington	209	205
+Oldtown	207	184
+De Smet	202	175
+Blanchard	201	261
+Peck	200	191
+Crouch	193	161
+Onaway	186	186
+Wardner	178	176
+Murtaugh	176	127
+Fernan Lake Village	171	169
+Moore	170	190
+Ferdinand	164	159
+Midvale	163	162
+St. Charles	155	143
+Elk City	147	0
+Acequia	139	130
+Bennington	130	190
+Tensed	125	123
+Elk River	120	124
+Minidoka	115	112
+Princeton	115	148
+Huetter	114	100
+Leadore	108	105
+Hope	106	94
+Hamer	104	89
+Smiths Ferry	101	0
+White Bird	97	93
+Butte City	70	74
+Stanley	69	62
+Conkling Park	68	0
+Murphy	63	0
+Reubens	62	65
+Placerville	61	53
+State Line	53	43
+Oxford	52	48
